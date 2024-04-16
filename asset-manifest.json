@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4fb67a8a.css",
+    "main.js": "/static/js/main.9e06698b.js",
+    "static/js/453.1fab7bc9.chunk.js": "/static/js/453.1fab7bc9.chunk.js",
+    "static/media/limestudio_1080p_25_CQ48.webm": "/static/media/limestudio_1080p_25_CQ48.4b77f754fc8117a4477e.webm",
+    "static/media/lime2_poster_1.mp4": "/static/media/lime2_poster_1.d837d45b2530fc552e71.mp4",
+    "static/media/lime2_web.svg": "/static/media/lime2_web.824495062431d9861c501a399f2aad18.svg",
+    "static/media/4.header.svg": "/static/media/4.header.af2f2d2573a8ca1ddb535d0506dae858.svg",
+    "static/media/5.date.svg": "/static/media/5.date.e59c2db8f9d622e5565e524ec565ff56.svg",
+    "static/media/6.location.svg": "/static/media/6.location.39eb09f6827544cd703d2fb7d74f7d68.svg",
+    "index.html": "/index.html",
+    "static/media/2.logo_instagram.svg": "/static/media/2.logo_instagram.6261b589a9ec9236a893fc40a94b1f52.svg",
+    "static/media/3.logo_youtube.svg": "/static/media/3.logo_youtube.c85e30ae534f682aade2e3048d076e86.svg",
+    "main.4fb67a8a.css.map": "/static/css/main.4fb67a8a.css.map",
+    "main.9e06698b.js.map": "/static/js/main.9e06698b.js.map",
+    "453.1fab7bc9.chunk.js.map": "/static/js/453.1fab7bc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb67a8a.css",
+    "static/js/main.9e06698b.js"
+  ]
+}
