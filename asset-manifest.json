@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.2918a8c9.css",
-    "main.js": "/static/js/main.9326e208.js",
+    "main.css": "/static/css/main.f5aecd40.css",
+    "main.js": "/static/js/main.448b4c78.js",
     "static/js/453.1fab7bc9.chunk.js": "/static/js/453.1fab7bc9.chunk.js",
-    "static/media/lime4_web.jpg": "/static/media/lime4_web.d1d7a9326a03d76da872.jpg",
-    "static/media/lime4_web_outlined.svg": "/static/media/lime4_web_outlined.ec339bb6e00bc0322f844b5bd91473f6.svg",
+    "static/media/poster.webm": "/static/media/poster.77962d7e7c6a03ca9178.webm",
+    "static/media/poster.mp4": "/static/media/poster.4bde4180061eddc2614b.mp4",
+    "static/media/head.svg": "/static/media/head.5d00e8da78c155baa1ebd808586031b5.svg",
+    "static/media/poster.jpg": "/static/media/poster.45179b5012a876f3fc22.jpg",
+    "static/media/main_text_1.svg": "/static/media/main_text_1.ebb9ea27cd809e06e9c1a2d6b852b1df.svg",
     "static/media/partner_licksip_official.svg": "/static/media/partner_licksip_official.8d207c191e2222b9e396d15639699420.svg",
-    "static/media/4.header.svg": "/static/media/4.header.989033dec09bda9e345be0cc7303b30c.svg",
-    "static/media/5.date.svg": "/static/media/5.date.6d263a534b6bd9ce9f8df8fc82389796.svg",
-    "static/media/6.location.svg": "/static/media/6.location.465b542e21d3630287ee06fb5c42b4ad.svg",
+    "static/media/btn_register_check.svg": "/static/media/btn_register_check.99d5e9cc284c1ac9b7fc11f2c32a8ced.svg",
+    "static/media/btn_register.svg": "/static/media/btn_register.8c9a8b30fca60fbf4d4d6d5e1ee3d765.svg",
     "index.html": "/index.html",
     "static/media/2.logo_instagram.svg": "/static/media/2.logo_instagram.6261b589a9ec9236a893fc40a94b1f52.svg",
     "static/media/3.logo_youtube.svg": "/static/media/3.logo_youtube.c85e30ae534f682aade2e3048d076e86.svg",
-    "main.2918a8c9.css.map": "/static/css/main.2918a8c9.css.map",
-    "main.9326e208.js.map": "/static/js/main.9326e208.js.map",
+    "static/media/btn_inc.svg": "/static/media/btn_inc.180344caad5bc740acf8b8ab169197b8.svg",
+    "static/media/btn_dec.svg": "/static/media/btn_dec.f7c033e70c810c93497caf8d94ff2c5e.svg",
+    "main.f5aecd40.css.map": "/static/css/main.f5aecd40.css.map",
+    "main.448b4c78.js.map": "/static/js/main.448b4c78.js.map",
     "453.1fab7bc9.chunk.js.map": "/static/js/453.1fab7bc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2918a8c9.css",
-    "static/js/main.9326e208.js"
+    "static/css/main.f5aecd40.css",
+    "static/js/main.448b4c78.js"
   ]
 }
